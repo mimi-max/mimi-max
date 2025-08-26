@@ -1,10 +1,12 @@
-# Bonjour, je suis Hermione Allognon
+# Bonjour, je suis Sewanou Allognon
 
-**Développeuse Front-End en recherche d'une alternance.**
+**Comptable de formation, j’ai découvert le code par passion.**
+**Je suis capable de réaliser des intégrations web classiques.**
+**Si  tu souhaites créer un CV ou un portfolio en ligne, n’hésite pas à me contacter !**
+
 
 - 👩‍💻 Accéder à mon **[portfolio ici](https://hermione-allognon.netlify.app/)**
-- 🌱 J'apprend actuellement **React**
-- 📫 Comment me contacter: **[Linkedin](https://www.linkedin.com/in/hermione-allognon/)**
+- 📫 Comment me contacter: **[Mail](Sewanouallognon@yahoo.com)**
 
 ### Mes compétences.
 
